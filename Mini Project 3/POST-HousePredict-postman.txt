@@ -1,0 +1,7 @@
+{
+    "made": 2021,
+    "squareMeters": 85000,
+    "numberOfRooms": 100,
+    "hasStorageRoom": 50,
+    "hasGuestRoom": 0
+}
